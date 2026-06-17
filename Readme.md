@@ -128,7 +128,7 @@ Wine-Quality-Prediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Wine-Quality-Prediction.git
+git clone https://github.com/Apxsingh/Wine-Quality-Prediction-using-Machine-Learning.git
 ```
 
 ### 2. Move into Project Directory
