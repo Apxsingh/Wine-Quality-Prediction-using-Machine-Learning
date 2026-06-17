@@ -109,8 +109,8 @@ Wine-Quality-Prediction/
 ├── data/
 │   └── winequality-red.csv
 │
-├── notebooks/
-│   └── Wine_Quality_Prediction.ipynb
+├── main/
+│   └── Wine Quality.ipynb
 │
 ├── images/
 │   ├── correlation_heatmap.png
